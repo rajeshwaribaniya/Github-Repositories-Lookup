@@ -1,1 +1,1 @@
-# Github-Repositories-Lookup
+# Github Repositories Lookup
