@@ -56,13 +56,13 @@ function App() {
               value={username}
               onChange={(e) => setUsername(e.target.value)}
               placeholder='Enter Github Username'
-              className='flex flex-grow  py-[8px] px-[16px] border border-border-primary rounded-[6px] '>
+              className='flex w-full  py-[8px] px-[16px] border border-border-primary rounded-[6px]  '>
 
             </input>
 
             <button
               type='submit'
-              className='bg-brand-color text-text-white px-[16px] py-[8px] rounded-[6px]'>
+              className='bg-[#0D0D0D] text-text-white px-[16px] py-[8px] rounded-[6px]'>
               Search
             </button>
 
